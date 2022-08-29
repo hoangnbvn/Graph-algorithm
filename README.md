@@ -1,3 +1,14 @@
-# thuviendothi
-<p>Nhóm em có tham khảo kiến thức của môn C advance.</p>
-<p>Chạy file main.c cùng các thư viện có trong folder hoặc dùng lệnh make để tạo file thực thi. </p>
+Graph's Algorithm for weighted Graph, directed Graph, undirected Graph
+- BFS, DFS
+- Dijkstra
+- Prim
+- Topology
+- Graph coloring
+- DAG check
+- MST
+
+How to run: 
+- Edit file .txt to create graph
+- Run algorithm in main.c
+- Output file is a .dot file
+- Run .dot to create graph image 
